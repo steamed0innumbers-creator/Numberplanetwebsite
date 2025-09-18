@@ -78,7 +78,7 @@ export default function HeroSection() {
               <div className="text-sm">게임 장르</div>
             </div>
             <div className="text-center">
-              <div className="text-2xl font-bold text-white">한붓그리기</div>
+              <div className="text-2xl font-bold text-white">블록퍼즐게임</div>
               <div className="text-sm">게임 방식</div>
             </div>
             <div className="text-center">

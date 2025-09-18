@@ -2,7 +2,7 @@ export default function FeaturesSection() {
   const features = [
     {
       icon: 'ri-pencil-line',
-      title: '직관적인 한붓그리기',
+      title: '직관적인 블록퍼즐',
       description: '손가락으로 숫자를 연결하는 간단하고 직관적인 조작 방식',
       color: 'emerald',
     },
